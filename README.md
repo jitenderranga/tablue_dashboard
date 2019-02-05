@@ -1,2 +1,1 @@
-# tablue_dashboard
-tableau exercise
+Interactive dashboard with story line.
